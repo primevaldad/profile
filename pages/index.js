@@ -26,7 +26,7 @@ My linkedin is https://www.linkedin.com/in/davidinnovates/ and I'm happy to send
   return (
     <div>
       <header>
-        <h1>{developerData.name}'s David Palmer, Product Developer</h1>
+        <h1>{developerData.name}, ' Product Developer'</h1>
       </header>
 
       <section>
